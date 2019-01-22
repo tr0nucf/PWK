@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 coucou
 	ceci est un modif dans la branch bacground color
+=======
+Ajout dans la branche mabranch;;;;;; 2eme ajout
+ceci est un modif dans la branch bacground color
+>>>>>>> mabranche
 jdajdk
