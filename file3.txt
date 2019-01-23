@@ -1,3 +1,0 @@
-test de messages
-
-Ajout d'une fonction dans nouvelle branche fonctionC avant le stash

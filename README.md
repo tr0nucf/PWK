@@ -1,5 +1,4 @@
 # PWK
-Store exercise for OSCP exam
+Store exercises for OSCP exam
 
-
-add from github
+ Cazin Christophe
